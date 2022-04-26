@@ -5,3 +5,4 @@
 >##### [最新v2rayN windows 详细使用教程](https://github.com/DIDOUSUN/project20200209/wiki/%E6%9C%80%E6%96%B0v2rayN-windows-%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 >##### [最新V2rayNG Android 详细使用教程](https://github.com/DIDOUSUN/project20200209/wiki/%E6%9C%80%E6%96%B0V2rayNG--Android-%E8%AF%A6%E7%BB%86%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 >##### [DIDOUSUN Drive](https://fox.didousun.workers.dev)
+>##### [DIDOUSUN BOOK](https://didousun.gitbook.io/network-knowledge-course/)
